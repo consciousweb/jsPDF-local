@@ -9,7 +9,8 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/from-referrer/)
 
 **A library to generate PDFs in JavaScript.**
-**modified to make the PDFObject library locally available without a remote call**
+
+**Modified to make the PDFObject library locally available without a remote call**
 
 You can [catch me on twitter](http://twitter.com/MrRio): [@MrRio](http://twitter.com/MrRio) or head over to [my company's website](http://parall.ax) for consultancy.
 
